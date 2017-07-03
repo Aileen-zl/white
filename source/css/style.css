@@ -1443,6 +1443,15 @@ a {
 	border: 1px solid #00abff
 }
 
+#header .header-nav .social a.csdn {
+	background: url(/img/csdn.png) center no-repeat white;
+	border: 1px solid white
+}
+
+#header .header-nav .social a.csdn:hover {
+	border: 1px solid white
+}
+
 #header .switch-part {
 	width: 100%;
 	position: absolute
